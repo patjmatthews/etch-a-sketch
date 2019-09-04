@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 17;
+    grid-row-start: 1;
+    grid-row-end: 17;
+}
+
+.container {
+    border-color: brown;
+}
